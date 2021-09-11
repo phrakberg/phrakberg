@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+---
+
+My name is James and this is a place for me to start throwing some beginner coding stuff
+
+- 🌱 I’m currently learning JavaScript
+- ⚡ Fun fact: I've been a photographer, truck driver, landscaper, and a warehouse worker before I got into IT.
+- 💬 Ask me about AWS!  I currently have my AWS SA-A, SysOps-Associate, and I'm working on my Certified Developer Associate.
+
+
 <!--
 **phrakberg/phrakberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
